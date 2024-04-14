@@ -1,3 +1,2 @@
 print("Oi Artur XD")
-
-input("penis")
+print('Oi bielzin da massa')
